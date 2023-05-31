@@ -1,5 +1,5 @@
 # Hi, I'm Erika.
-◼️ currently a student of De La Salle University Manila, taking up BS in Computer Science Major in Software Technology
+◼️ currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology
 
 #### I mostly use:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
