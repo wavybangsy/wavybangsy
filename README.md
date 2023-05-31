@@ -1,5 +1,5 @@
 # Hi, I'm Erika.
-➕ currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology
+<li>currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology</li>
 
 ---
 
