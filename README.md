@@ -1,5 +1,8 @@
 # Hi, I'm Erika.
 <li>currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology</li>
+<br>
+<br>
+👀 Highly interested in process automation and optimization, and in software/technology solutions aligned to Sustainable Development Goals (SDGs). 
 
 ---
 
