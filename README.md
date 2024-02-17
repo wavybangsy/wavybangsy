@@ -1,30 +1,37 @@
 # Hi, I'm Erika.
-<li>currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology</li>
-👀 Interested in learning process automation and optimization, and in software/technology solutions aligned to Sustainable Development Goals (SDGs). 
+ ✏️ currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology <br>
+ 👀 interested in learning process automation and optimization, and in software/technology solutions aligned to Sustainable Development Goals (SDGs). <br>
+
+---
+#### Hoping to learn
+![Static Badge](https://img.shields.io/badge/unity-0a0a0a?style=for-the-badge&logo=unity)
+![Static Badge](https://img.shields.io/badge/raspberry%20pi-0a0a0a?style=for-the-badge&logo=raspberrypi)
+![Static Badge](https://img.shields.io/badge/android%20studio-0a0a0a?style=for-the-badge&logo=androidstudio)
+![Static Badge](https://img.shields.io/badge/swift-0a0a0a?style=for-the-badge&logo=swift)
 
 ---
 
-#### Main Programming Languages
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
-<br/>
-
-#### Web Development
-<img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=flat" alt="Nodemon Badge">
-<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
-          
-
+##### Main Programming Languages
+![Static Badge](https://img.shields.io/badge/c-0a0a0a?style=for-the-badge&logo=c&color=094b86)
+![Static Badge](https://img.shields.io/badge/python-0a0a0a?style=for-the-badge&logo=python&logoColor=fcd237&color=3776AB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
+##### Web Development
+![Static Badge](https://img.shields.io/badge/php-0a0a0a?style=for-the-badge&logo=php)
+![Static Badge](https://img.shields.io/badge/HTML-0a0a0a?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/css-0a0a0a?style=for-the-badge&logo=css3&logoColor=264de4)
+![Static Badge](https://img.shields.io/badge/javascript-0a0a0a?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/nodejs-0a0a0a?style=for-the-badge&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/symfony-0a0a0a?style=for-the-badge&logo=symfony)
+![Static Badge](https://img.shields.io/badge/handlebars-0a0a0a?style=for-the-badge&logo=handlebarsdotjs)
+![Static Badge](https://img.shields.io/badge/node%20express-0a0a0a?style=for-the-badge&logo=nodeexpress)
+![Static Badge](https://img.shields.io/badge/twig-0a0a0a?style=for-the-badge&logo=twig)
+![Static Badge](https://img.shields.io/badge/slim-0a0a0a?style=for-the-badge&logo=slim)
 <br />
-
-#### Other Languages I know
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>     
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>   
+##### Other Tech:
+![Static Badge](https://img.shields.io/badge/GOLANG-0a0a0a?style=for-the-badge&logo=go)
+![Static Badge](https://img.shields.io/badge/godot-0a0a0a?style=for-the-badge&logo=godotengine)
+![Static Badge](https://img.shields.io/badge/mysql-0a0a0a?style=for-the-badge&logo=mysql)
+![Static Badge](https://img.shields.io/badge/mongodb-0a0a0a?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/ruby-0a0a0a?style=for-the-badge&logo=ruby&logoColor=%23CC342D) 
 <br />
