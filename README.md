@@ -11,12 +11,12 @@
 
 ---
 
-##### Main Programming Languages
+#### Main Programming Languages
 ![Static Badge](https://img.shields.io/badge/c-0a0a0a?style=for-the-badge&logo=c&color=094b86)
 ![Static Badge](https://img.shields.io/badge/python-0a0a0a?style=for-the-badge&logo=python&logoColor=fcd237&color=3776AB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
-##### Web Development
+#### Web Development
 ![Static Badge](https://img.shields.io/badge/php-0a0a0a?style=for-the-badge&logo=php)
 ![Static Badge](https://img.shields.io/badge/HTML-0a0a0a?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/css-0a0a0a?style=for-the-badge&logo=css3&logoColor=264de4)
@@ -28,7 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/twig-0a0a0a?style=for-the-badge&logo=twig)
 ![Static Badge](https://img.shields.io/badge/slim-0a0a0a?style=for-the-badge&logo=slim)
 <br />
-##### Other Tech:
+#### Other Tech:
 ![Static Badge](https://img.shields.io/badge/GOLANG-0a0a0a?style=for-the-badge&logo=go)
 ![Static Badge](https://img.shields.io/badge/godot-0a0a0a?style=for-the-badge&logo=godotengine)
 ![Static Badge](https://img.shields.io/badge/mysql-0a0a0a?style=for-the-badge&logo=mysql)
