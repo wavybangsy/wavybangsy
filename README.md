@@ -1,6 +1,6 @@
 # Hi, I'm Erika.
- ✏️ currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology <br>
- 👀 interested in learning process automation and optimization, and in software/technology solutions aligned to Sustainable Development Goals (SDGs). <br>
+⮞ currently a student in De La Salle University Manila, taking up BS in Computer Science Major in Software Technology <br>
+⮞ interested in learning process automation and optimization, and in software/technology solutions aligned to Sustainable Development Goals (SDGs). <br>
 
 ---
 #### Hoping to learn
@@ -35,3 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/mongodb-0a0a0a?style=for-the-badge&logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/ruby-0a0a0a?style=for-the-badge&logo=ruby&logoColor=%23CC342D) 
 <br />
+
+---
+###### Robotics Experience: 
+Worked with VEX robots programmed in RobotC
