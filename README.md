@@ -6,7 +6,6 @@
 #### Hoping to learn
 ![Static Badge](https://img.shields.io/badge/unity-0a0a0a?style=for-the-badge&logo=unity)
 ![Static Badge](https://img.shields.io/badge/raspberry%20pi-0a0a0a?style=for-the-badge&logo=raspberrypi)
-![Static Badge](https://img.shields.io/badge/android%20studio-0a0a0a?style=for-the-badge&logo=androidstudio)
 ![Static Badge](https://img.shields.io/badge/swift-0a0a0a?style=for-the-badge&logo=swift)
 
 ---
@@ -27,6 +26,12 @@
 ![Static Badge](https://img.shields.io/badge/node%20express-0a0a0a?style=for-the-badge&logo=nodeexpress)
 ![Static Badge](https://img.shields.io/badge/twig-0a0a0a?style=for-the-badge&logo=twig)
 ![Static Badge](https://img.shields.io/badge/slim-0a0a0a?style=for-the-badge&logo=slim)
+
+</br>
+
+#### Mobile App Development
+![Static Badge](https://img.shields.io/badge/android%20studio-0a0a0a?style=for-the-badge&logo=androidstudio)
+
 <br />
 #### Other Tech:
 ![Static Badge](https://img.shields.io/badge/GOLANG-0a0a0a?style=for-the-badge&logo=go)
@@ -34,6 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/mysql-0a0a0a?style=for-the-badge&logo=mysql)
 ![Static Badge](https://img.shields.io/badge/mongodb-0a0a0a?style=for-the-badge&logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/ruby-0a0a0a?style=for-the-badge&logo=ruby&logoColor=%23CC342D) 
+
 <br />
 
 ---
