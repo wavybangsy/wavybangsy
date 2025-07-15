@@ -31,8 +31,8 @@
 
 #### Mobile App Development
 ![Static Badge](https://img.shields.io/badge/android%20studio-0a0a0a?style=for-the-badge&logo=androidstudio)
-
 <br />
+
 #### Other Tech:
 ![Static Badge](https://img.shields.io/badge/GOLANG-0a0a0a?style=for-the-badge&logo=go)
 ![Static Badge](https://img.shields.io/badge/godot-0a0a0a?style=for-the-badge&logo=godotengine)
